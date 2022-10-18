@@ -1,3 +1,7 @@
+![NewsMonkey](https://user-images.githubusercontent.com/42465723/196353442-7d077765-76ef-40ef-b511-f275e3cefec5.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
